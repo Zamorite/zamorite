@@ -66,14 +66,7 @@ I am Zamorite, a self-motivated Mobile & Web Developer. I'm lover of Google and 
 
 ## `> git stats show --gui`
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zamorite&count_private=true&show_icons=true&include_all_commits=true)
-
----
-
-</br>
-
-## `> git lang --most-used`
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zamorite&count_private=true&hide_title=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamorite&hide=TeX&layout=compact)
 
 <!-- ## ```> git visitors --count```
