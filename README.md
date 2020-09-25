@@ -14,6 +14,7 @@ I am Zamorite, a self-motivated Mobile & Web Developer. I'm lover of Google and 
 
 [![Website Badge](https://img.shields.io/badge/-zamorite.com-black?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://zamorite.com)](https://zamorite.com)
 [![Stackoverflow Badge](https://img.shields.io/badge/-zamorite-575757?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/story/9635809/)](https://stackoverflow.com/users/story/9635809/)
+[![Twitter Badge](https://img.shields.io/badge/-%5Fzamorite-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/_zamorite/)](https://www.twitter.com/_zamorite/)
 [![Linkedin Badge](https://img.shields.io/badge/-zamorite-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zamorite/)](https://www.linkedin.com/in/zamorite/)
 [![Gmail Badge](https://img.shields.io/badge/-zamorite@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zamorite@gmail.com)](mailto:zamorite@gmail.com)
 
@@ -50,7 +51,7 @@ I am Zamorite, a self-motivated Mobile & Web Developer. I'm lover of Google and 
 
 ![firestore](https://img.shields.io/badge/-firestore-black?style=for-the-badge&logo=firebase)
 ![sql server](https://img.shields.io/badge/-sql%20server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logoColor=white&logo=mysql)
 ![sqlite](https://img.shields.io/badge/-sqlite-003B57?style=for-the-badge&logo=sqlite)
 ![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle)
 
