@@ -12,8 +12,8 @@ I am Zamorite, a self-motivated Mobile & Web Developer. I'm lover of Google and 
 
 ## `> ls accounts --social`
 
-[![Stackoverflow Badge](https://img.shields.io/badge/-zamorite-575757?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/story/9635809/)](https://stackoverflow.com/users/story/9635809/)
 [![Website Badge](https://img.shields.io/badge/-zamorite.com-00B300?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://zamorite.com)](https://zamorite.com)
+[![Stackoverflow Badge](https://img.shields.io/badge/-zamorite-575757?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/story/9635809/)](https://stackoverflow.com/users/story/9635809/)
 [![Linkedin Badge](https://img.shields.io/badge/-zamorite-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zamorite/)](https://www.linkedin.com/in/zamorite/)
 [![Gmail Badge](https://img.shields.io/badge/-zamorite@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zamorite@gmail.com)](mailto:zamorite@gmail.com)
 
