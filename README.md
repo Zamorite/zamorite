@@ -1,8 +1,8 @@
-# `Hello World` ! <img src="https://raw.githubusercontent.com/zamorite/zamorite/master/wave.gif" width="30px">
+# `Hello World !` <img src="https://raw.githubusercontent.com/zamorite/zamorite/master/wave.gif" width="30px">
 
 ## `> whoami`
 
-## I am Zamorite, a self-motivated Mobile & Web Developer. I'm lover of Google and it's technologies such as Flutter, Angular and Firebase. I also create beautiful graphic designs for both print and media.
+I am Zamorite, a self-motivated Mobile & Web Developer. I'm lover of Google and it's technologies such as Flutter, Angular and Firebase. I also create beautiful graphic designs for both print and media.
 
 ---
 
@@ -74,6 +74,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamorite&hide=TeX&layout=compact)
 
-<!-- ## `> git visitors --count`
+<!-- ## ```> git visitors --count```
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zamorite.zamorite) -->
