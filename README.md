@@ -4,7 +4,7 @@
 
 ## `> whoami`
 
-I am Zamorite, a self-motivated Mobile & Web Developer. I'm lover of Google and it's technologies such as Flutter, Angular and Firebase. I also create beautiful graphic designs for both print and media.
+I am Zamorite, a self-motivated Mobile & Web Developer. I'm a lover of Google and it's technologies such as Flutter, Angular and Firebase. I also create beautiful graphic designs for both print and media.
 
 ---
 
